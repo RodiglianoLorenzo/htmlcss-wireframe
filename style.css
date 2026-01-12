@@ -10,6 +10,12 @@
     margin-bottom: 10px;
 }
 
+ hr {
+  border: none;              
+  height: 3px;              
+  background-color: black;          
+  margin: 10px auto;         
+}
 .box_1{
     margin-top: 20px;
     margin-left: 39px;
