@@ -40,6 +40,17 @@
     box-sizing: content-box;
 }
 
+.box_4{
+    margin-top: 20px;
+    margin-left: 39px;
+    border: 2px solid black;
+    padding: 15px;
+    width: 350px;
+    height: 130px;
+    box-sizing: content-box;
+}
+
+
 
 
 body{
